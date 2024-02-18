@@ -17,3 +17,7 @@ https://medium.com/reactbrasil/criando-sua-pr%C3%B3pria-lib-de-componentes-em-re
 #### JavaScript
 ![image](https://github.com/AmandaDev25/Creating-libs---NPM/assets/138495890/12ae2abe-62e1-4e32-a62b-db1e63a1fbfe)
 
+#### TypeScript
+![image](https://github.com/AmandaDev25/Creating-and-publish-libs-NPM/assets/138495890/5a6126e5-8683-46fb-9e35-54cf98318c37)
+
+
