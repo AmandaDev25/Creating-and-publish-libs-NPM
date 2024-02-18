@@ -7,7 +7,7 @@
 ## JavaScript
 https://www.alura.com.br/artigos/criando-e-publicando-uma-biblioteca-javascript-no-npm
 
-## Typecript
+## TypeScript
 https://medium.com/xp-inc/cria%C3%A7%C3%A3o-de-biblioteca-typescript-c7eec577f1df
 
 ## Creating and publishing NPM libs
