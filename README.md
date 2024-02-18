@@ -14,5 +14,6 @@ https://medium.com/xp-inc/cria%C3%A7%C3%A3o-de-biblioteca-typescript-c7eec577f1d
 https://medium.com/reactbrasil/criando-sua-pr%C3%B3pria-lib-de-componentes-em-react-e-publicando-no-npm-registry-32eda41f4ec8
 
 ### Result
+#### JavaScript
 ![image](https://github.com/AmandaDev25/Creating-libs---NPM/assets/138495890/12ae2abe-62e1-4e32-a62b-db1e63a1fbfe)
 
